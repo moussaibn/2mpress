@@ -2,8 +2,19 @@
 
 ## Installation
 
-git clone
-cd
+```bash
+git clone git@github.com:mignzii/carservice.git 2mpress;
+cd 2mpress;
+# Create and import database
+mysql -uroot -p
+create database 2mpress charset utf8 collate utf8_general_ci;
+create user 2mpress@localhost identified with mysql_native_password with '2mpress';
+grant all privileges on 2mpress.* to 2mpress@localhost;
+exit
+
+# run dev server
+php -S 0.0.0.0:9000
+```
 
 
 2mpress
