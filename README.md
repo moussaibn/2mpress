@@ -1,10 +1,15 @@
-# carservice
-# Telecharger le fichier contenu dans ce lien 
-https://drive.google.com/file/d/145RsFv3PBqya-dM_3K6jNzamXftKJLOl/view?usp=sharing
+# 2MTransport
 
-# Installation
+## Installation
 
-pour l'installation il faut installer le logiciel _laragon_  
+git clone
+cd
+
+
+2mpress
+TCgv8AlmyzsdIW27l*
+
+> pour l'installation il faut installer le logiciel _laragon_  
 et ensuite depuis la fenetre de laragon crée un nouveau site web rapidement avec wodrpress  
 Ensuite pour le nom du site "carservice" et  
 au moment de l'installation pour le nom d'utilisateur mettre "twitter" et comme mot de passe "jtQ%saU4ABVVLC%V8f"
