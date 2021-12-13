@@ -13,7 +13,7 @@ grant all privileges on 2mpress.* to 2mpress@localhost;
 exit
 
 # run dev server
-php -S 0.0.0.0:9000
+make server
 ```
 
 
